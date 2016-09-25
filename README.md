@@ -16,7 +16,7 @@ Then install this package. Maven-style:
 
 Sbt-style:
 
-    dependencies += "org.overviewproject" %% "pdfocr" % "0.0.2"
+    libraryDependencies += "org.overviewproject" % "pdfocr_2.11" % "0.0.3"
 
 Usage
 -----
